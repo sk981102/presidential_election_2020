@@ -1,0 +1,6 @@
+model: "model.RNNClassifier"
+nhidden: 256
+nlayers: 3
+nembedding: 300
+dropout: 0.2
+clip: 10.0
